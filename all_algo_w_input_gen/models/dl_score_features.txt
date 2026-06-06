@@ -1,0 +1,10 @@
+num_nodes
+num_edges
+graph_density
+avg_degree
+num_connected_component
+bandwidth
+latency
+failure_rate
+loss_rate
+hamiltonian_cycle_found

@@ -1,0 +1,2 @@
+num_nodes,num_edges,bandwidth,latency,failure_rate,loss_rate,total_time,check_interval,min_nodes,max_nodes,min_bandwidth,max_bandwidth,min_latency,max_latency,min_failure_rate,max_failure_rate,min_loss_rate,max_loss_rate
+25,100,10,50,0.015,0.04,5000,100,20,40,5,100,5,100,0.001,0.025,0.0,0.02
