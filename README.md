@@ -224,3 +224,9 @@ For a comprehensive explanation of the experiments, results, and analysis, pleas
 ## Research scope
 
 The central question investigated here is whether **network-aware machine-learning selection** can improve leader-election behavior compared with choosing one fixed election algorithm across all network conditions. The implementation provides a reproducible framework for studying this trade-off through simulation, saved models, and per-window evaluation.
+
+## Authors
+
+- **2005050** - Nabila Tabassum
+- **2005056** - Azmal Karim
+
